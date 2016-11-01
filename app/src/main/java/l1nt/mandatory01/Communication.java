@@ -48,9 +48,9 @@ public class Communication {
 
     Context context;
     RequestQueue queue;
-    public final static String URL_BASE = "https://185.93.195.194/";
-    public final static String URL_CREATEUSER = "https://185.93.195.194/createuser.php";
-    public final static String URL_UPLOADIMAGE = "https://185.93.195.194/uploadpic.php";
+    public final static String URL_BASE = "server base";
+    public final static String URL_CREATEUSER = "server create user";
+    public final static String URL_UPLOADIMAGE = "server upload image";
 
     public Communication(Context context) {
         this.context = context;
