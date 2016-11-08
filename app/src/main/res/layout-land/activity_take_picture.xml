@@ -31,13 +31,15 @@
         <EditText
             android:id="@+id/caseId"
             android:layout_width="match_parent"
-            android:layout_height="wrap_content"
+            android:layout_height="0dp"
+            android:layout_weight="1"
             android:hint="Case Id" />
 
         <EditText
             android:id="@+id/desc"
             android:layout_width="match_parent"
-            android:layout_height="wrap_content"
+            android:layout_height="0dp"
+            android:layout_weight="2"
             android:hint="Description"
             android:inputType="textMultiLine"
             android:lines="3" />
@@ -47,6 +49,7 @@
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
             android:onClick="uploadPicture"
+            android:layout_weight="0"
             android:text="Upload" />
 
     </LinearLayout>

@@ -42,6 +42,7 @@ public class MainActivity extends AppCompatActivity {
     EditText caseId;
     EditText desc;
     OkCancelInputDialog dialog;
+    String username = "";
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
@@ -72,6 +73,18 @@ public class MainActivity extends AppCompatActivity {
         }
     }
 
+    @Override
+    protected void onPause() {
+        System.out.println("onPause!");
+        System.out.println("isSHowing "+this.dialog.isShowing());
+
+        if (this.dialog != null && this.dialog.isShowing()) {
+            System.out.println("Dismissed!");
+            this.dialog.dismiss();
+        }
+        super.onPause();
+    }
+
     public void createUser() {
         dialog = new OkCancelInputDialog(this, "Create user", "Choose a username") {
             @Override
@@ -85,6 +98,10 @@ public class MainActivity extends AppCompatActivity {
             }
         };
         dialog.show();
+        System.out.println("in createUser "+this.username);
+        if(this.username !=""){
+            this.dialog.setUserInput(this.username);
+        }
     }
 
 
@@ -180,6 +197,7 @@ public class MainActivity extends AppCompatActivity {
         outState.putString("imgName", this.imgName);
 
         if (dialog != null && dialog.getUserInput() != "") {
+            System.out.println("in onSvaeInstanceSteate "+dialog.getUserInput());
             outState.putString("username", dialog.getUserInput());
         }
     }
@@ -201,8 +219,10 @@ public class MainActivity extends AppCompatActivity {
             imgBtn.setImageResource(R.drawable.take);
         }
 
-        if (savedState.getString("username") != null || savedState.getString("username")!="") {
-            this.dialog.setUserInput(savedState.getString("username"));
+        if (savedState.getString("username") != null || savedState.getString("username") != "") {
+            this.username = savedState.getString("username");
         }
+
+
     }
 }

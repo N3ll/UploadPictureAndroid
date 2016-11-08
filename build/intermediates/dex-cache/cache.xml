@@ -2,148 +2,166 @@
 <items version="2" >
 
     <item
-        is-multidex="false"
-        jar="/Users/Nelly/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/24.2.1/support-annotations-24.2.1.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="24.0.2"
-        sha1="8de3aafecbdf98a61db6427f008f2d515bcd2544">
-        <dex dex="/Users/Nelly/Developerin/Android/Mandatory01/app/build/intermediates/pre-dexed/debug/support-annotations-24.2.1_4349614603dbe0b7818d0a2e963f44b5f23d6d0a.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="/Users/Nelly/Developerin/Android/Mandatory01/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/24.2.1/jars/classes.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="24.0.2"
-        sha1="d5c731fc64c03dfe04d51134955b483551c35849">
-        <dex dex="/Users/Nelly/Developerin/Android/Mandatory01/app/build/intermediates/pre-dexed/debug/com.android.support-support-vector-drawable-24.2.1_f89d69dd938bbd6ae346459950d794d2eae9bc77.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="/Users/Nelly/Developerin/Android/Mandatory01/app/build/intermediates/exploded-aar/com.android.support/support-compat/24.2.1/jars/classes.jar"
-        jumboMode="false"
+        is-multidex="true"
+        jar="/Users/Nelly/Developerin/Android/00 Mandatory 01/Mandatory01/app/build/intermediates/exploded-aar/com.android.support/support-compat/24.2.1/jars/classes.jar"
+        jumboMode="true"
         optimize="true"
         revision="24.0.2"
         sha1="0ecb4b595fa0f0f8018a149ace3ea6525624f94e">
-        <dex dex="/Users/Nelly/Developerin/Android/Mandatory01/app/build/intermediates/pre-dexed/debug/com.android.support-support-compat-24.2.1_8978e9cc31cd6531df32d8cb7b076f713b2fecf5.jar" />
+        <dex dex="/Users/Nelly/Developerin/Android/00 Mandatory 01/Mandatory01/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-compat-24.2.1_b6477b011c4009d8a0b54b4e470518a4a1df96ca/classes.dex" />
     </item>
     <item
-        is-multidex="false"
-        jar="/Users/Nelly/Developerin/Android/Mandatory01/app/build/intermediates/exploded-aar/com.android.support/support-v4/24.2.1/jars/classes.jar"
-        jumboMode="false"
+        is-multidex="true"
+        jar="/Users/Nelly/Developerin/Android/00 Mandatory 01/Mandatory01/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/24.2.1/jars/classes.jar"
+        jumboMode="true"
         optimize="true"
         revision="24.0.2"
-        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
-        <dex dex="/Users/Nelly/Developerin/Android/Mandatory01/app/build/intermediates/pre-dexed/debug/com.android.support-support-v4-24.2.1_9ea92cc4c950cac822dfacb8b72c56e6d19725bc.jar" />
+        sha1="d5c731fc64c03dfe04d51134955b483551c35849">
+        <dex dex="/Users/Nelly/Developerin/Android/00 Mandatory 01/Mandatory01/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-vector-drawable-24.2.1_e03c57d50c54aa859877e186de3c21048e607cf9/classes.dex" />
     </item>
     <item
-        is-multidex="false"
-        jar="/Users/Nelly/Developerin/Android/Mandatory01/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/24.2.1/jars/libs/internal_impl-24.2.1.jar"
-        jumboMode="false"
+        is-multidex="true"
+        jar="/Users/Nelly/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/24.2.1/support-annotations-24.2.1.jar"
+        jumboMode="true"
         optimize="true"
         revision="24.0.2"
-        sha1="fbf8da429efd5ad21e02e3e5ecaa1efc4167878d">
-        <dex dex="/Users/Nelly/Developerin/Android/Mandatory01/app/build/intermediates/pre-dexed/debug/internal_impl-24.2.1_40e85189b85690160bcaf5474b77ddef1f4a73b1.jar" />
+        sha1="8de3aafecbdf98a61db6427f008f2d515bcd2544">
+        <dex dex="/Users/Nelly/Developerin/Android/00 Mandatory 01/Mandatory01/app/build/intermediates/transforms/dex/debug/folders/1000/10/support-annotations-24.2.1_4349614603dbe0b7818d0a2e963f44b5f23d6d0a/classes.dex" />
     </item>
     <item
-        is-multidex="false"
-        jar="/Users/Nelly/Developerin/Android/Mandatory01/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/24.2.1/jars/libs/internal_impl-24.2.1.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="24.0.2"
-        sha1="867dad63c33388ff8c7644b236579355036d075f">
-        <dex dex="/Users/Nelly/Developerin/Android/Mandatory01/app/build/intermediates/pre-dexed/debug/internal_impl-24.2.1_30d0bef2c29ce546b92e074d887626b40d9905d8.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="/Users/Nelly/Developerin/Android/Mandatory01/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/24.2.1/jars/classes.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="24.0.2"
-        sha1="e7f3132168957eefc46229fc32c3bd464642b71e">
-        <dex dex="/Users/Nelly/Developerin/Android/Mandatory01/app/build/intermediates/pre-dexed/debug/com.android.support-support-core-ui-24.2.1_c39aa382ad7c68ed44152d15b49d425ebf55172e.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="/Users/Nelly/Developerin/Android/Mandatory01/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/24.2.1/jars/libs/internal_impl-24.2.1.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="24.0.2"
-        sha1="935a969265b2a166b2d20415423f5f6e90fe16e0">
-        <dex dex="/Users/Nelly/Developerin/Android/Mandatory01/app/build/intermediates/pre-dexed/debug/internal_impl-24.2.1_f49bb8d71634b145d03c32b6003883df22314c07.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="/Users/Nelly/Developerin/Android/Mandatory01/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/24.2.1/jars/classes.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="24.0.2"
-        sha1="09b462bbcb77650284bd6614f1a32f360ef369f8">
-        <dex dex="/Users/Nelly/Developerin/Android/Mandatory01/app/build/intermediates/pre-dexed/debug/com.android.support-support-media-compat-24.2.1_49e5f120bab3f2ec674263864a41880c5de485d8.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="/Users/Nelly/Developerin/Android/Mandatory01/app/build/intermediates/exploded-aar/com.android.support/support-compat/24.2.1/jars/libs/internal_impl-24.2.1.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="24.0.2"
-        sha1="7e4389bd133359a2ff88623ff1e4ff93d6e6f780">
-        <dex dex="/Users/Nelly/Developerin/Android/Mandatory01/app/build/intermediates/pre-dexed/debug/internal_impl-24.2.1_76cf9da4f75596390f15864793578c2c9f6dd5b7.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="/Users/Nelly/Developerin/Android/Mandatory01/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/24.2.1/jars/classes.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="24.0.2"
-        sha1="9c4c3bc902450c39ed54de170db4fb12aea20a35">
-        <dex dex="/Users/Nelly/Developerin/Android/Mandatory01/app/build/intermediates/pre-dexed/debug/com.android.support-support-core-utils-24.2.1_250e7d8264fe6fc7fd588ed2c23ac74e87749654.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="/Users/Nelly/Developerin/Android/Mandatory01/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/24.2.1/jars/classes.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="24.0.2"
-        sha1="94bc1dfb84dcc8b6f6f8f7cc726d7b2dd39c1574">
-        <dex dex="/Users/Nelly/Developerin/Android/Mandatory01/app/build/intermediates/pre-dexed/debug/com.android.support-animated-vector-drawable-24.2.1_0897cd3b5b2dbfb268cd9a3871626e25a17be5f9.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="/Users/Nelly/Developerin/Android/Mandatory01/app/build/intermediates/exploded-aar/com.android.volley/volley/1.0.0/jars/classes.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="24.0.2"
-        sha1="2cd4b982617e544728de0782d718a58ce1b06e3f">
-        <dex dex="/Users/Nelly/Developerin/Android/Mandatory01/app/build/intermediates/pre-dexed/debug/com.android.volley-volley-1.0.0_c8ed928f93f513401e0c943a77aee3494788e5f7.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="/Users/Nelly/Developerin/Android/Mandatory01/app/build/intermediates/exploded-aar/com.android.support/support-fragment/24.2.1/jars/classes.jar"
-        jumboMode="false"
+        is-multidex="true"
+        jar="/Users/Nelly/Developerin/Android/00 Mandatory 01/Mandatory01/app/build/intermediates/exploded-aar/com.android.support/support-fragment/24.2.1/jars/classes.jar"
+        jumboMode="true"
         optimize="true"
         revision="24.0.2"
         sha1="b9a1ac78ad7ef3abedc4a4b30cd92bcacb939d1f">
-        <dex dex="/Users/Nelly/Developerin/Android/Mandatory01/app/build/intermediates/pre-dexed/debug/com.android.support-support-fragment-24.2.1_472c6a0605a49b3d6518d70f97f329ce2a1e2533.jar" />
+        <dex dex="/Users/Nelly/Developerin/Android/00 Mandatory 01/Mandatory01/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-fragment-24.2.1_b53c2aa74f1403804a54706f632bd8154e23ab7b/classes.dex" />
     </item>
     <item
-        is-multidex="false"
-        jar="/Users/Nelly/Developerin/Android/Mandatory01/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.1/jars/classes.jar"
-        jumboMode="false"
+        is-multidex="true"
+        jar="/Users/Nelly/Developerin/Android/00 Mandatory 01/Mandatory01/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/24.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="94bc1dfb84dcc8b6f6f8f7cc726d7b2dd39c1574">
+        <dex dex="/Users/Nelly/Developerin/Android/00 Mandatory 01/Mandatory01/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-animated-vector-drawable-24.2.1_bb1f9922e322252055a59fd8f2305f0ba362ef01/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Nelly/Developerin/Android/00 Mandatory 01/Mandatory01/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.1/jars/classes.jar"
+        jumboMode="true"
         optimize="true"
         revision="24.0.2"
         sha1="43b2dba6b5a0b14527961b75329d0b90025f15ea">
-        <dex dex="/Users/Nelly/Developerin/Android/Mandatory01/app/build/intermediates/pre-dexed/debug/com.android.support-appcompat-v7-24.2.1_f86f1b506af40840cd811adfb669fd6842af5040.jar" />
+        <dex dex="/Users/Nelly/Developerin/Android/00 Mandatory 01/Mandatory01/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-appcompat-v7-24.2.1_66e21db51c19adb641540046e1d294f541d8d7a8/classes.dex" />
     </item>
     <item
-        is-multidex="false"
-        jar="/Users/Nelly/Developerin/Android/Mandatory01/app/build/intermediates/exploded-aar/com.android.support/support-fragment/24.2.1/jars/libs/internal_impl-24.2.1.jar"
-        jumboMode="false"
+        is-multidex="true"
+        jar="/Users/Nelly/Developerin/Android/00 Mandatory 01/Mandatory01/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/24.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="e7f3132168957eefc46229fc32c3bd464642b71e">
+        <dex dex="/Users/Nelly/Developerin/Android/00 Mandatory 01/Mandatory01/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-core-ui-24.2.1_c31b87d9f6d7fbfc4d72d82d8161b740f72e6ae3/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Nelly/Developerin/Android/00 Mandatory 01/Mandatory01/app/build/intermediates/exploded-aar/com.android.volley/volley/1.0.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="2cd4b982617e544728de0782d718a58ce1b06e3f">
+        <dex dex="/Users/Nelly/Developerin/Android/00 Mandatory 01/Mandatory01/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.volley-volley-1.0.0_6f8d1ad3080d3774e64e1b46ad72f729e38ad43a/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Nelly/Developerin/Android/00 Mandatory 01/Mandatory01/app/build/intermediates/exploded-aar/com.android.support/support-v4/24.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="/Users/Nelly/Developerin/Android/00 Mandatory 01/Mandatory01/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-v4-24.2.1_e5fb856ec2852052c8232d00a7229511d1759b3b/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Nelly/Developerin/Android/00 Mandatory 01/Mandatory01/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/24.2.1/jars/libs/internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="935a969265b2a166b2d20415423f5f6e90fe16e0">
+        <dex dex="/Users/Nelly/Developerin/Android/00 Mandatory 01/Mandatory01/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-24.2.1_a6bd62423ca2c64018aca74fca2df2f6a287d3be/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Nelly/Developerin/Android/00 Mandatory 01/Mandatory01/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="4ce2a01a82b7cb95c8a34070797fc08c87cd1df5">
+        <dex dex="/Users/Nelly/Developerin/Android/00 Mandatory 01/Mandatory01/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_d18ba12c779f86aa140c1d03ed9575ccbddc8d39/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Nelly/Developerin/Android/00 Mandatory 01/Mandatory01/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/24.2.1/jars/libs/internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="867dad63c33388ff8c7644b236579355036d075f">
+        <dex dex="/Users/Nelly/Developerin/Android/00 Mandatory 01/Mandatory01/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-24.2.1_58a0e6749bd45293bf72ff04c2a7238157c55265/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Nelly/Developerin/Android/00 Mandatory 01/Mandatory01/app/build/intermediates/exploded-aar/com.android.support/support-fragment/24.2.1/jars/libs/internal_impl-24.2.1.jar"
+        jumboMode="true"
         optimize="true"
         revision="24.0.2"
         sha1="5f64d657e838e8375135c0f6057a7ff8fab6a50e">
-        <dex dex="/Users/Nelly/Developerin/Android/Mandatory01/app/build/intermediates/pre-dexed/debug/internal_impl-24.2.1_323e377c23a8d0ec18c1edbd97c1a5e9fba52f82.jar" />
+        <dex dex="/Users/Nelly/Developerin/Android/00 Mandatory 01/Mandatory01/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-24.2.1_f6ba86111e11fa73fe0664460a48473231b71b70/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Nelly/Developerin/Android/00 Mandatory 01/Mandatory01/app/build/intermediates/exploded-aar/com.android.support/support-compat/24.2.1/jars/libs/internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="7e4389bd133359a2ff88623ff1e4ff93d6e6f780">
+        <dex dex="/Users/Nelly/Developerin/Android/00 Mandatory 01/Mandatory01/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-24.2.1_b7c627303165f79233780ce92ce1affa98eb9935/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Nelly/Developerin/Android/00 Mandatory 01/Mandatory01/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/24.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="9c4c3bc902450c39ed54de170db4fb12aea20a35">
+        <dex dex="/Users/Nelly/Developerin/Android/00 Mandatory 01/Mandatory01/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-core-utils-24.2.1_b548cef71e3a701513715326b3e3ce5fc0aadb7d/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Nelly/Developerin/Android/00 Mandatory 01/Mandatory01/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/24.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="09b462bbcb77650284bd6614f1a32f360ef369f8">
+        <dex dex="/Users/Nelly/Developerin/Android/00 Mandatory 01/Mandatory01/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-media-compat-24.2.1_f5fa3b43785b948ad89871433b07d1a48825fea0/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Nelly/Developerin/Android/00 Mandatory 01/Mandatory01/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="b82767ce2d1ef8eb382a454bb331f582aaf8b067">
+        <dex dex="/Users/Nelly/Developerin/Android/00 Mandatory 01/Mandatory01/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_4b2c79c7f4a0d95df8b2ee17681dcc072f50d51e/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Nelly/Developerin/Android/00 Mandatory 01/Mandatory01/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/24.2.1/jars/libs/internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="fbf8da429efd5ad21e02e3e5ecaa1efc4167878d">
+        <dex dex="/Users/Nelly/Developerin/Android/00 Mandatory 01/Mandatory01/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-24.2.1_74ca866fc48c750443b5c26a749edb7605c4dc0c/classes.dex" />
     </item>
 
 </items>
